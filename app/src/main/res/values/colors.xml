@@ -13,6 +13,10 @@
     <color name="text">#bab8ba</color>
     <color name="button_color">#554291</color>
 
+    <color name="background_senku">#b4c1d6</color>
+    <color name="button_senku_deselected">#6d9ce8</color>
+    <color name="button_senku_selected">#c6cc16</color>
+
     <color name="background_2048">#bbada0</color>
     <color name="basic_number">#cdc1b4</color>
     <color name="number_2">#eee4da</color>
